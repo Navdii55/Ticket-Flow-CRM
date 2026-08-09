@@ -49,7 +49,7 @@ The CRM dashboard provides an overview of:
 
 ## 🏗️ System Architecture
 
-``text
+```text
                     ┌──────────────────────┐
                     │      User / Agent    │
                     └──────────┬───────────┘
